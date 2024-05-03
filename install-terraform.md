@@ -35,10 +35,15 @@ Install VS Code extensions
 - GitLens 
 - Better Comments
 - Prettier
-- Peacock
 - Code Spell Checker
+- Error Lens
 - YAML
 - TODO Highlight 
+- Bracket Pair Colorization Toggler
+- CodeSanp
+- Peacock
+- GitHistory
+- Git Graph
 
 // TODO: Update content here
 // FIXME: Update contnet here
@@ -69,8 +74,8 @@ Optional extension
 - GitHistory
 - Git Graph
 - Polacode-2022
-Terraform lint
-Error Le
+
+
 
 Step #5
 - terraform-docs [Auto Documentation](https://terraform-docs.io/)
