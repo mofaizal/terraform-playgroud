@@ -44,17 +44,17 @@ Install VS Code extensions
 - Peacock
 - GitHistory
 - Git Graph
+- Deepdrak Material Theme
 
 // TODO: Update content here
 // FIXME: Update contnet here
 
+
 Optional extension
 - Draw.io
 - C#
-- Code Spell Checker
 - Code Tour
 - Color Highlight
-- Deepdrak Material Theme
 - Dev Containers
 - Docker
 - GitHub Actions
@@ -74,7 +74,6 @@ Optional extension
 - GitHistory
 - Git Graph
 - Polacode-2022
-
 
 
 Step #5

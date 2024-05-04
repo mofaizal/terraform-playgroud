@@ -1,0 +1,11 @@
+vnet: "demovnet"
+address_space: "10.100.0.0/16"
+subnets: 
+- name: websubnet
+  iprange: "10.100.1.0/24"
+- name: appsubnet
+  iprange: "10.100.2.0/24"
+
+
+resource_group: "demo-rg"
+location: "southeast asia"

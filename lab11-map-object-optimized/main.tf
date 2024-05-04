@@ -16,9 +16,9 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "resource_groups" {
-  for_each = var.resource_groups
+  for_each = var.vnets
 
-  name     = each.value.name
+  name     = each.value.resource_group
   location = each.value.location
 }
 
