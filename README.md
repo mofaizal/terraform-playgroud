@@ -1,4 +1,4 @@
-# terrform-playgroud
+# terraform-playgroud
 This webpage for Terraform playgroup to learn from basic to advance.
 
 # What is Infrastructure as Code (IaC):
