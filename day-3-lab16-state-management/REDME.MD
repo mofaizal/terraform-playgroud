@@ -1,6 +1,7 @@
 
 
 ```
+
 terraform show
 terraform state list 
 terraform state list | grep '^azurerm_resource_group'
